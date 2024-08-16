@@ -6,8 +6,8 @@ Este projeto é um site desenvolvido para uma empresa focada em **marketing digi
 
 ## Funcionalidades
 - **Página Inicial:** Apresenta uma visão geral da empresa e dos serviços oferecidos.
-- **Quem somos**Apresentação da equipa.
-- **Serviços:** Detalhamento dos serviços de marketing digital, organização de eventos e desenvolvimento de websites.
+- **Quem somos** Apresentação da equipa.
+- **Serviços:** Detalhe dos serviços de marketing digital, organização de eventos e desenvolvimento de websites.
 - **Contato:** Formulário de contato para potenciais clientes entrarem em contato com a empresa.
 
 ## Tecnologias Utilizadas
