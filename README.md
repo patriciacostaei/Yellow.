@@ -18,3 +18,20 @@ Este projeto é um site desenvolvido para uma empresa focada em **marketing digi
 
 ## Observações
 O site já não se encontra ativo
+
+__________________
+
+## Description
+This project is a website developed for a company focused on digital marketing, event management and organization, and website creation. The site was built using HTML, CSS, JavaScript, and Bootstrap to ensure a modern and responsive design.
+
+## Features
+Home Page: Provides an overview of the company and the services offered.
+About Us: Introduction of the team.
+Services: Details of the digital marketing, event management, and website development services.
+Contact: Contact form for potential clients to reach out to the company.
+
+## Technologies Used
+HTML5
+CSS3
+JavaScript
+Bootstrap
